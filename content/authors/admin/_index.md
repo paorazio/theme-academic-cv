@@ -71,11 +71,13 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
+  # - icon: cv
+   # icon_pack: ai
+   # link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Welcome to my website! I am a Junior Professor of Economics at the Chemnitz University of Technology. I specialize in climate-related financial policies, specifically focusing on the intersection between climate change and the financial sector. The primary objective of my research is to enhance our understanding of the macro-financial risks associated with climate change, and the insights generated from my research play a critical role in shaping climate change policies and promoting financial stability. I emphasize the importance of aligning monetary policy mandates and financial stability governance structures with climate-related financial policies. I am dedicated to developing resources that facilitate a comprehensive understanding of this intricate domain. Furthermore, I have developed the Climate-Related Financial Policy Index (CRFPI), a key tool for comparing global engagement in green financial policymaking.
-{style="text-align: justify;"}
+Welcome to my website! I am a Junior Professor of Economics at the Chemnitz University of Technology. I specialize in climate-related financial policies, specifically focusing on the intersection between climate change and the financial sector. The primary objective of my research is to enhance our understanding of the macro-financial risks associated with climate change, and the insights generated from my research play a critical role in shaping climate change policies and promoting financial stability. {style="text-align: justify;"}
 
