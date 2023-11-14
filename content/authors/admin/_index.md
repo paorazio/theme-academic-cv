@@ -40,11 +40,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Economics and Statistics (\textit{Doctor Europaeus})
-      institution: University ``G. D'Annunzio" of Pescara (Italy)
+    - course: PhD in Economics and Statistics (Doctor Europaeus)
+      institution: University "G. D'Annunzio" of Pescara (Italy)
       year: 2015
     - course: Master (Master di I livello) in Management of International Cooperation for Development
-      institution: University ``G. D'Annunzio" of Pescara (Italy)
+      institution: University "G. D'Annunzio" of Pescara (Italy)
       year: 2011
     - course: Master (Laurea Specialistica) in Local and International Cooperation and Development 
       institution: Alma Mater Studiorum - University of Bologna (Italy)
@@ -61,7 +61,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:paola.dorazio@wiwi.tu-chemnitz.de'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?hl%253Den%2526user%253DgE5V1-MAAAAJ%2526view_op%253Dlist_works
