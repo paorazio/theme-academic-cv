@@ -64,7 +64,7 @@ social:
     link: 'mailto:paola.dorazio@wiwi.tu-chemnitz.de'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com/citations?hl%253Den%2526user%253DgE5V1-MAAAAJ%2526view_op%253Dlist_works
+    link: https://scholar.google.com/citations?user=gE5V1-MAAAAJ&hl=en&authuser=2
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/paola-d-orazio-b76072a0/
@@ -76,6 +76,6 @@ social:
 highlight_name: true
 ---
 
-Paola D'Orazio is a Junior Professor of Economics at the Chemnitz University of Technology. Her research interests include the role of central banks and financial regulators and supervisors in creating a stable financial system and transitioning to a low-carbon economy.
+Welcome to my website! I am a Junior Professor of Economics at the Chemnitz University of Technology. My research interests include the role of central banks and financial regulators and supervisors in creating a stable financial system and transitioning to a low-carbon economy.
 {style="text-align: justify;"}
 
